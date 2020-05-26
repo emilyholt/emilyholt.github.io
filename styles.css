@@ -1,0 +1,27 @@
+h1 {
+  color: darkslateblue;
+  text-align: center;
+}
+
+h2 {
+  color: navy;
+}
+
+h3 {
+  color: midnightblue;
+  text-align: center;
+}
+
+img {
+  max-width: 50%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#link_section {
+  color: cornflowerblue;
+}
+
